@@ -1,0 +1,18 @@
+# Löscht die riesigen, automatisch generierten Unity-Ordner
+/[Ll]ibrary/
+/[textmesh pro]/
+/[Bb]uild/
+/[Bb]uilds/
+/Space_Hero_Build/
+/MyApplicationLogs/
+
+# Ignoriert Logdateien
+*.log
+
+# Ignoriert die temporären Dateien von Visual Studio / VS Code
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.cubemap
